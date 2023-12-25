@@ -1,0 +1,10 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+.clangd
+compile_commands.json
+.cache
+mbed-os
+grove_lcd_rgb_backlight
